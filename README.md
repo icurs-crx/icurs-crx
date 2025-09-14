@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ![icurs-crx's GitHub stats](https://github-readme-stats.vercel.app/api?username=icurs-crx&show_icons=true&theme=synthwave)
 ![icurs-crx's GitHub stats](https://github-readme-stats.vercel.app/api?username=icurs-crx&show_icons=true&theme=transparent)
