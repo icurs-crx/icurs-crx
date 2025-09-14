@@ -4,7 +4,7 @@
 ![icurs-crx's GitHub stats](https://github-readme-stats.vercel.app/api?username=icurs-crx&show_icons=true&theme=synthwave)
 ![icurs-crx's GitHub stats](https://github-readme-stats.vercel.app/api?username=icurs-crx&show_icons=true&theme=transparent)
 ## Technologies 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!--
 **icurs-crx/icurs-crx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
