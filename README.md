@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&duration=2500&pause=1000&color=F75B95&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=350&lines=ICURS-CRX;Currently+a+student%2C+but+a+cybersecurity+expert+soon.)](https://git.io/typing-svg)</h2>
 
 ###
 
