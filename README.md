@@ -20,7 +20,6 @@
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxlYW40ZzZpeDN6YnNjNG0zdnRuMDd0djJnY2oxa2U5NnV0NXF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif"  />
 
-###
 
 <h2 align="left">Technologies</h2>
 
