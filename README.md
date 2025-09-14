@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&letterSpacing=&pause=1000&color=F71406&background=000000&center=true&random=true&width=600&height=200&lines=ICURS-CRX;Currently+a+student%2C+but+a+cybersecurity+expert+soon)](https://git.io/typing-svg)
 
 ![icurs-crx's GitHub stats](https://github-readme-stats.vercel.app/api?username=icurs-crx&show_icons=true&theme=synthwave)
 ![icurs-crx's GitHub stats](https://github-readme-stats.vercel.app/api?username=icurs-crx&show_icons=true&theme=transparent)
