@@ -1,5 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ICURS-CRX
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&duration=2500&pause=1000&color=F75B95&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=ICURS-CRX;Currently+a+student%2C+but+a+cybersecurity+expert+soon."/>
 </div>
