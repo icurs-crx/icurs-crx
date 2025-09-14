@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![icurs-crx's GitHub stats](https://github-readme-stats.vercel.app/api?username=icurs-crx)](https://github.com/icurs-crx/github-readme-stats)
 <!--
 **icurs-crx/icurs-crx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
